@@ -6,7 +6,11 @@ margin: 0;
 
 h1{
 background: black;
-text-align: center;    
+text-align: center;
+border-width: 3.5px;
+border-color: red;
+border-style: dashed;
+box-shadow: 5px 5px 8px 0 grey;    
 }
 
 body {
@@ -20,9 +24,12 @@ font-size: 1.2rem;
 p {
 margin-top: 1.5rem;
 background: blue;
-
-}
-
+border-width: 3.3px;
+border-color: springgreen;
+border-style: dashed;
+box-shadow: 5px 5px 8px 0 grey;    
+}   
+ 
 a{
     color: violet;
 }
