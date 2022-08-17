@@ -10,7 +10,7 @@ text-align: center;
 border-width: 3.5px;
 border-color: red;
 border-style: dashed;
-box-shadow: 5px 5px 8px 0 grey;    
+box-shadow: 8px 8px 8px 8px grey;    
 }
 
 body {
@@ -27,7 +27,7 @@ background: blue;
 border-width: 3.3px;
 border-color: springgreen;
 border-style: dashed;
-box-shadow: 5px 5px 8px 0 grey;    
+box-shadow: 8px 8px 8px 8px gray;    
 }   
  
 a{
